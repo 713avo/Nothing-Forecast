@@ -4,3 +4,7 @@ cache/
 Captura*.png
 captura*.png
 .DS_Store
+.idea/
+Android-Version/.idea/
+Android-Version/.gradle/
+Android-Version/.kotlin/
