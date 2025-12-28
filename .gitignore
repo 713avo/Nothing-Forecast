@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+cache/
+Captura*.png
+captura*.png
+.DS_Store
